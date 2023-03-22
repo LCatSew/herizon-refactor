@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg"); /*This is the source for the main header image, add alt to class? I think*/
     background-size: cover;
     background-position: center;
 }
