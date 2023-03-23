@@ -22,4 +22,6 @@ A webpage meets accessibility standards
 ![screen shot of body.](./assets/images/horiseon-refactor-body.png)
 ![screen shot of footer.](./assets/images/horiseon-refactor-footer.png)
 
+### Code Source
+[starter code repository reference](https://github.com/coding-boot-camp/urban-octo-telegram)
 <!---ADD YOUR SOURCE CODE!!! /!---> 
